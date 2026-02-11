@@ -8,7 +8,7 @@
     - **Notebook:** [`logistic_regression.ipynb`](<1 - Regression/logistic_regression.ipynb>)
   - ### Module 3: Neural Network theory
     - **Notebook:** [`neural_networks.ipynb`](<2 - Neural Networks/neural_networks.ipynb>)
-
+    
 ---
 
 **Hooray : You've made it to AI !**
